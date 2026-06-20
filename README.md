@@ -6,3 +6,4 @@
 - Prefer 2 mins for per activity for better training data
 - **CW Activities**: Squat, Walking, Spin Around, Standing
 - **HW Activities**: Jumping, Boxing, WalkingBackward, KneeRaise
+- Include the Jupyter Notebook as well
